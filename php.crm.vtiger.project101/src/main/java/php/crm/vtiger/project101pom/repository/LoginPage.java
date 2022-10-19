@@ -33,7 +33,7 @@ public class LoginPage {
 	    usernameTextField.sendKeys(username);
 	    passwordTextField.sendKeys(password);
 	    signInButton.click();
-	    
+	    system.out.println("this is global");
 		
 	}
     
