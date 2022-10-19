@@ -34,6 +34,8 @@ public class LoginPage {
 	    passwordTextField.sendKeys(password);
 	    signInButton.click();
 	    
+	    System.out.println("this is local change");
+	    
 		
 	}
     

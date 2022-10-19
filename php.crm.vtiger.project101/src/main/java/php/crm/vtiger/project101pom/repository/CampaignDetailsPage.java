@@ -13,6 +13,7 @@ public class CampaignDetailsPage {
 	public String verifyCampaignName(String CampaignName){
 		return driver.findElement(By.xpath("//span[text()='"+CampaignName+"']")).getText();
 		
+		
 	}
 
 }
