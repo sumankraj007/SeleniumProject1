@@ -33,9 +33,13 @@ public class LoginPage {
 	    usernameTextField.sendKeys(username);
 	    passwordTextField.sendKeys(password);
 	    signInButton.click();
+
 	    
 	    System.out.println("this is local change");
 	    
+
+	    System.out.println("this is global");
+
 		
 	}
     
