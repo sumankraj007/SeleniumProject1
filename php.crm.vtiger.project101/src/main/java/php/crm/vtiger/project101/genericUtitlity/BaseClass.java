@@ -39,6 +39,7 @@ public class BaseClass {
 		System.out.println("Chrome Browser is launched");
 		System.out.println("navigate to Vtiger");
 		sdriver=driver;
+		  system.out.println("chamges is done 1");
 		
 	}
 	@BeforeMethod
