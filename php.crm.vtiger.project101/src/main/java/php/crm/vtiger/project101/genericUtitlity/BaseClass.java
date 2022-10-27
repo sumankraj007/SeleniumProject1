@@ -40,6 +40,8 @@ public class BaseClass {
 		System.out.println("navigate to Vtiger");
 		sdriver=driver;
 		  System.out.println("chamges is done 1");
+		  System.out.println("changes is done 2");
+		  
 		
 	}
 	@BeforeMethod
